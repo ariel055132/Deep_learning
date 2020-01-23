@@ -1,0 +1,35 @@
+# How to choose Loss Functions and Optimizer when training deep learning neural networks
+
+
+
+## Loss Functions
+
+1. Regression Loss Function (predicting a real-valued quantity)
+
+   1. Mean Square Error Loss (Default) (MSE)
+   2. Mean Squared Logarithmic Error Loss (Target value has a spread of values and when predicting a large value) (MSLE)
+   3. Mean Absolute Error Loss
+
+2. Binary Classification Loss Function (Predictive modeling problems where examples are assigned one or two labels)
+
+   Predicting a value of 0 or 1 for the first or second class and is often implemented as predicting the probability of the example belonging to class value 1.
+
+   1. Binary Cross-Entropy (Intended for use with binary classification where the target values are in the set {0,1}, calculating a score that summarizes the average difference between the actual and predicted probability distributions for predicting class 1)
+   2. Hinge Loss (Binary classification problems)
+   3. Squared Hinge Loss
+
+3. Multi-Class Classifications Loss Functions
+   1. Multi-Class Cross-Entropy Loss
+   2. Sparse Multiclass Cross-Entropy Loss
+   3. Kullback Leibler Divergence Loss
+
+
+
+## Optimizer
+
+1. SGD 
+2. Momentum
+3. Adagrad
+4. Adadelta
+5. RMSprop
+6. Adam
