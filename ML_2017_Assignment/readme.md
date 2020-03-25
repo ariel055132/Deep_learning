@@ -4,16 +4,16 @@ This repository contains four homework of Machine Learning course of National Ta
 
 The detail of each homework is in the below.
 
-[Basic Operation](https://github.com/machineCYC/2017MLSpring_Hung-yi-Lee/tree/master/HW0)
+[Basic Operation]
 
-[Predict PM2.5](https://github.com/machineCYC/2017MLSpring_Hung-yi-Lee/tree/master/HW1)
+[Predict PM2.5]
 
-[Binary Classification](https://github.com/machineCYC/2017MLSpring_Hung-yi-Lee/tree/master/HW2)
+[Binary Classification]
 
-[Image Sentiment Classification](https://github.com/machineCYC/2017MLSpring_Hung-yi-Lee/tree/master/HW3)
+[Image Sentiment Classification]
 
-[Text Sentiment Classification](https://github.com/machineCYC/2017MLSpring_Hung-yi-Lee/tree/master/HW4)
+[Text Sentiment Classification](
 
-[Predict movie ratings](https://github.com/machineCYC/2017MLSpring_Hung-yi-Lee/tree/master/HW5)
+[Predict movie ratings]
 
-[Unsupervised learning & dimension reduction](https://github.com/machineCYC/2017MLSpring_Hung-yi-Lee/tree/master/HW6)
+[Unsupervised learning & dimension reduction]
